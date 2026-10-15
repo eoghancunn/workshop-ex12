@@ -1,0 +1,6 @@
+data/derived/
+.DS_Store
+__pycache__/
+.Rhistory
+.RData
+.Rproj.user/
